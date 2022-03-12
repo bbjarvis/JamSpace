@@ -22,7 +22,7 @@ This app was built by [Brett](https://github.com/bbjarvis), [Noah](https://githu
 
 ### Booking an Instrument
 
-!["JamSpace Create a Listing"](https://github.com/TylerJEShelton/JamSpace/blob/master/screenshots/Create_a_Listing.png?raw=true)
+!["JamSpace Create a Listing"](https://github.com/bbjarvis/JamSpace/blob/master/screenshots/Booking.gif?raw=true)
 
 ### My Profile
 
