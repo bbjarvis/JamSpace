@@ -18,7 +18,7 @@ This app was built by [Brett](https://github.com/bbjarvis), [Noah](https://githu
 
 ### Map
 
-!["JamSpace Map"](https://github.com/TylerJEShelton/JamSpace/blob/master/screenshots/Filtered_Home_Screen_Carousel.png?raw=true)
+!["JamSpace Map"]https://github.com/bbjarvis/JamSpace/blob/master/screenshots/Map.gif?raw=true)
 
 ### Create a Listing
 
