@@ -28,14 +28,10 @@ This app was built by [Brett](https://github.com/bbjarvis), [Noah](https://githu
 
 !["JamSpace My Profile"](https://github.com/bbjarvis/JamSpace/blob/master/screenshots/My_Profile_page.gif?raw=true)
 
-### Delete a Listing
-
-!["JamSpace Delete a Listing"](https://github.com/TylerJEShelton/JamSpace/blob/master/screenshots/Delete_a_Listing.png?raw=true)
-
 ### Listings
 
-!["JamSpace Listings"](https://github.com/TylerJEShelton/JamSpace/blob/master/screenshots/Listings.png?raw=true)
+!["JamSpace Listings"](https://github.com/bbjarvis/JamSpace/blob/master/screenshots/Listings.gif?raw=true)
 
 ### Create a Listing
 
-!["JamSpace Booking an Instrument"](https://github.com/TylerJEShelton/JamSpace/blob/master/screenshots/Booking_an_Instrument.png?raw=true)
+!["JamSpace Booking an Instrument"](https://github.com/bbjarvis/JamSpace/blob/master/screenshots/Create_Listing.gif?raw=true)
