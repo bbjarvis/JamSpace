@@ -26,7 +26,7 @@ This app was built by [Brett](https://github.com/bbjarvis), [Noah](https://githu
 
 ### My Profile
 
-!["JamSpace My Profile"](https://github.com/TylerJEShelton/JamSpace/blob/master/screenshots/My_Profile.png?raw=true)
+!["JamSpace My Profile"](https://github.com/bbjarvis/JamSpace/blob/master/screenshots/My_Profile_page.gif?raw=true)
 
 ### Delete a Listing
 
