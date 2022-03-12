@@ -14,11 +14,11 @@ This app was built by [Brett](https://github.com/bbjarvis), [Noah](https://githu
 
 ### Home Page Listings
 
-!["JamSpace Home Page Listings"](https://github.com/TylerJEShelton/JamSpace/blob/master/screenshots/Home_Screen_Carousel.png?raw=true)
+!["JamSpace Home Page Listings"](https://github.com/bbjarvis/JamSpace/blob/master/screenshots/Home_Listings.gif?raw=true)
 
-### Filtered Home Page Listings
+### Map
 
-!["JamSpace Home Page Listings"](https://github.com/TylerJEShelton/JamSpace/blob/master/screenshots/Filtered_Home_Screen_Carousel.png?raw=true)
+!["JamSpace Map"](https://github.com/TylerJEShelton/JamSpace/blob/master/screenshots/Filtered_Home_Screen_Carousel.png?raw=true)
 
 ### Create a Listing
 
