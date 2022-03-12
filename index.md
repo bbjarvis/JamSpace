@@ -18,9 +18,9 @@ This app was built by [Brett](https://github.com/bbjarvis), [Noah](https://githu
 
 ### Map
 
-!["JamSpace Map"](https://github.com/bbjarvis/JamSpace/blob/master/screenshots/Map.gif?raw=true)
+!["JamSpace Map"](https://github.com/bbjarvis/JamSpace/blob/master/screenshots/Map_Listing.gif?raw=true)
 
-### Create a Listing
+### Booking an Instrument
 
 !["JamSpace Create a Listing"](https://github.com/TylerJEShelton/JamSpace/blob/master/screenshots/Create_a_Listing.png?raw=true)
 
@@ -36,6 +36,6 @@ This app was built by [Brett](https://github.com/bbjarvis), [Noah](https://githu
 
 !["JamSpace Listings"](https://github.com/TylerJEShelton/JamSpace/blob/master/screenshots/Listings.png?raw=true)
 
-### Booking an Instrument
+### Create a Listing
 
 !["JamSpace Booking an Instrument"](https://github.com/TylerJEShelton/JamSpace/blob/master/screenshots/Booking_an_Instrument.png?raw=true)
