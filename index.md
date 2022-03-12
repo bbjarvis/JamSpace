@@ -10,7 +10,7 @@ This app was built by [Brett](https://github.com/bbjarvis), [Noah](https://githu
 
 ### Home Page
 
-!["JamSpace Home Page"](https://github.com/TylerJEShelton/JamSpace/blob/master/screenshots/Home.png?raw=true)
+!["JamSpace Home Page"](https://github.com/bbjarvis/JamSpace/blob/master/screenshots/Home_Page.gif?raw=true)
 
 ### Home Page Listings
 
